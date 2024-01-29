@@ -1,52 +1,44 @@
-<!--
-    this template is for inspiration, feel free to change it however you like!
-
-    Careful! be sure to protect your privacy when filling out this document
-        everything you write here will be public
-        so share only what you are comfortable sharing online
-        you can share the rest in confidence with you group by another channel
--->
 
 # Communication
 
-## Group Rules
-
-<!-- any general rules you'd like to set for your group? -->
 
 ---
 
 ## Communication Schedule
-
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+| Day                 | How       | The topic of discussion                  |
+|---------------------|-----------|------------------------------------------|
+| Tuesday 01.23.2024  | Zoom call | Questions for the Milestone 1 discussion |
+| Thursday 01.25.2024 | Zoom call | Meeting with Evan                        |
+| Tuesday 01.30.2024  | Zoom call |                                          |
+| Thursday 02.01.2024 | Zoom call |                                          |
 
 ## Communication Channels
 
-how often will we get in touch on each channel, and what we will discuss there:
-
-- **Issues**:
-- **Pull Requests**:
-- **Slack/Discord**:
-- **Video Calls**:
-
+How often will we get in touch on each channel, and what we will discuss there:
+- **Issues**: When the task is needed to be done
+- **Pull Requests**: When the task is done
+- **Slack/Discord**: Available any time
+- **Video Calls**: Every Tuesday and Thursday 1:00 pm - 2:00 pm EST
 ---
 
 ## Availability
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
-
+| Day                  | Monday               | Tuesday              | Wednesday            | Thursday             | Friday               | Saturday | Sunday  |
+|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------|---------|
+| Oleksii Bezruchenkov | 13 - 20              | 13 - 20              | 13 - 20              | 13 - 20              | 13 - 20              | 13 - 20  | 13 - 20 |
+| Maab Taha            |                      |                      |                      |                      |                      |          |         |
+| Yuliia Sych          | 13 - 15<br/> 20 - 22 | 13 - 15<br/> 20 - 22 | 13 - 15<br/> 20 - 22 | 13 - 15<br/> 20 - 22 | 13 - 15<br/> 20 - 22 | 20 - 22  |         |
+| Adla Abou Steiti     |                      |                      |                      |                      |                      |          |         |
+ 
 ### How many hours everyone has per day:
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Oleksii Bezruchenkov: _3h_;
+- Maab Taha: _3h_;
+- Yuliia Sych: _3h_;
+- Adla Abou Steiti: _3h_;
+
 
 ## Asking for Help
 
