@@ -29,3 +29,9 @@
  - Learn more about data science, and algorithms.
  - Practice more complete, readable, and well documented solutions.
  - Practice collaboration on tasks, and task review.
+### Denys
+ - Working and collaboration as a group.
+ - Data Science workflow and experience.
+ - Learn how to work on the project as a group and managing collaborative workflow.
+ - Practice DS tools, methods and approaches.
+ - Follow documentation, testing and collaboration guidelines.
