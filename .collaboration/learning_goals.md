@@ -10,8 +10,7 @@
 
 ## Individual
 ### Maab
- - Study the mathematics needed for machine learning, starting with calculus.
- - Learn OOP using C++
+ - Learn OOP using C++.
  - Review DSs and algorithms you have already studied.
  - Learn to program faster, to be a more efficient developer.
 ### Oleksii

@@ -18,5 +18,4 @@ Meeting agendas, summaries, and reminders If you can’t attend a meeting or a s
  - clear communication
  - active participation
  - feedback
- - attendance
 
