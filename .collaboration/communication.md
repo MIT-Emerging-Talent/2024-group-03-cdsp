@@ -31,13 +31,16 @@ How often will we get in touch on each channel, and what we will discuss there:
 | Maab Taha            | 10 - 13              | 13 - 14              | 10 - 13              | 13 - 14              |  N/A                 |Afternoon |Afternoon|
 | Yuliia Sych          | 13 - 15<br/> 20 - 22 | 13 - 15<br/> 20 - 22 | 13 - 15<br/> 20 - 22 | 13 - 15<br/> 20 - 22 | 13 - 15<br/> 20 - 22 | 20 - 22  |         |
 | Adla Abou Steiti     |                      |                      |                      |                      |                      |          |         |
- 
+| Denys Savytskyi      | 05 - 13              | 13 - 15              |                      | 05 - 15              | 05 - 13              | 03 - 05  |         |
+
+
 ### How many hours everyone has per day:
 
 - Oleksii Bezruchenkov: _3h_;
 - Maab Taha: _1h_;
 - Yuliia Sych: _3h_;
 - Adla Abou Steiti: _3h_;
+- Denys Savytskyi: _4h_;
 
 
 ## Asking for Help
