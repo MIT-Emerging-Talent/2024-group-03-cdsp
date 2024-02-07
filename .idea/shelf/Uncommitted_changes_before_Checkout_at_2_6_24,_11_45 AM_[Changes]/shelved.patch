@@ -1,0 +1,29 @@
+Index: milestones/1.problem_identification/problem_identification.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!--A problem-statement based on your personal experiences-->\n## Problem Statement: \nAI is the latest trend, we see people spending more time chatting with AI than with friends, family, or real people.\n\n<!--A summary of your group’s understanding of the problem domain (systems thinking, design thinking).-->\n## Summary of our understanding of domain\n*Domain:* Mental health\n\n<!--* An actionable research question informed by the realities of your problem domain and your constraints.-->\n## Research Question\nHow does the increasing use of AI chatbots affect mental health and social skills?
+===================================================================
+diff --git a/milestones/1.problem_identification/problem_identification.md b/milestones/1.problem_identification/problem_identification.md
+--- a/milestones/1.problem_identification/problem_identification.md	
++++ b/milestones/1.problem_identification/problem_identification.md	
+@@ -1,6 +1,19 @@
+ <!--A problem-statement based on your personal experiences-->
+ ## Problem Statement: 
+-AI is the latest trend, we see people spending more time chatting with AI than with friends, family, or real people.
++Mental health care is crucial for overall well-being, as it encompasses emotional, 
++psychological, and social aspects of a person's life. Just as physical health requires 
++attention and treatment, so too does mental health. Neglecting mental health can lead 
++to various issues such as anxiety, depression, and stress, impacting one's quality of 
++life and ability to function effectively.
++One significant aspect of mental health in the digital age is the rise of internet 
++addiction. With the increasing prevalence of smartphones, social media platforms, 
++and development of AI tools, individuals are becoming more susceptible to excessive 
++internet usage, leading to addiction. Digital addiction can disrupt sleep patterns, 
++decrease productivity, strain relationships, and exacerbate existing mental health 
++conditions.
++AI is the latest trend, we noticed some people spending more time chatting with AI 
++than with friends, family members, or real people.
++
+ 
+ <!--A summary of your group’s understanding of the problem domain (systems thinking, design thinking).-->
+ ## Summary of our understanding of domain
