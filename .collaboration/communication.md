@@ -11,6 +11,8 @@
 | Thursday 01.25.2024 | Zoom call | Meeting with Evan                        |
 | Tuesday 01.30.2024  | Zoom call | Weekly meeting                           |
 | Thursday 02.01.2024 | Zoom call | Weekly meeting                           |
+| Tuesday 02.06.2024  | Google Meet call | Weekly meeting                    |
+| Tuesday 02.08.2024  | Zoom call | Weekly meeting                           |
 
 ## Communication Channels
 
@@ -32,6 +34,7 @@ How often will we get in touch on each channel, and what we will discuss there:
 | Yuliia Sych          | 13 - 15<br/> 20 - 22 | 13 - 15<br/> 20 - 22 | 13 - 15<br/> 20 - 22 | 13 - 15<br/> 20 - 22 | 13 - 15<br/> 20 - 22 | 20 - 22  |         |
 | Adla Abou Steiti     |                      |                      |                      |                      |                      |          |         |
 | Denys Savytskyi      | 05 - 13              | 13 - 15              |                      | 05 - 15              | 05 - 13              | 03 - 05  |         |
+| wagar Adil           | 09 - 13              | 09 - 13              |                      | 09 - 13              | 12 - 13              |          |         |
 
 
 ### How many hours everyone has per day:
@@ -41,6 +44,7 @@ How often will we get in touch on each channel, and what we will discuss there:
 - Yuliia Sych: _3h_;
 - Adla Abou Steiti: _3h_;
 - Denys Savytskyi: _4h_;
+- Wagar Adil: _2h_;
 
 
 ## Asking for Help
