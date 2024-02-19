@@ -4,7 +4,7 @@ This milestone focuses on the data analysis phase of the project.
 
 ## Acheivements
 1- Explored the Global Trends in Mental Health dataset, adding the data of social media users percentage. Worked on finalizing notebook, wrote conclusions,
-as what can be seen from plots and made a README.md with description of the work done.
+as what can be seen from plots and made a README.md with description of the work done.                                                                        
 2- Worked on the analysis on ChatGPT's rising public interest and its comparison with social media anxiety trends, indicating a shift in societal concerns towards AI.
 
 ## In Process
