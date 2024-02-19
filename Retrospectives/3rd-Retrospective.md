@@ -1,5 +1,5 @@
 ## Introduction
-Date: 5-16 February, 2024
+Date: 5-16 February, 2024                                                                                                                                     
 This milestone focuses on the data analysis phase of the project.
 
 ## Acheivements
@@ -22,9 +22,9 @@ We've tried working with some new tools and it's been good so far,
 - google Trends
 
 ## Team Dynamics and Collaboration
-We're facing some conflicts as not all the team is available, but still the work flow has been good and the rest of the team is participating perfectly.
+We're facing some conflicts as not all the team is available, but still the work flow has been good and the rest of the team is participating perfectly.      
 We have two meetings per week, which through we discuss what needs to be done through out the milestone and the team divides the work between them.
 
 ## Conclusions
-We think our overall work is good to some point and only a few things are missing, which we are working on fixing and completing.
+We think our overall work is good to some point and only a few things are missing, which we are working on fixing and completing.                             
 We have learned a lot of new stuff through out this milestone phase. 
