@@ -8,7 +8,7 @@ as what can be seen from plots and made a README.md with description of the work
 2- Worked on the analysis on ChatGPT's rising public interest and its comparison with social media anxiety trends, indicating a shift in societal concerns towards AI.
 
 ## In Process
-1- Doing an EDA for the Wellfare effect of social media dataset.
+1- Doing an EDA for the Wellfare effect of social media dataset.                                                                                              
 2- Working on the 50 Indian student dataset about the mental health literacy using ChatGPT.
 
 ## Challenges Faced
