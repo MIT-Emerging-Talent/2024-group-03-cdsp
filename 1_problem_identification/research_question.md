@@ -6,7 +6,7 @@ condition and research possible risks of depression development.
 
 ## Research questions
 
-1. Are people who use Social media and AI chatbots a lot have a higher risk of depression development?
-2. Does people with diagnosed Clinical Depression have a higher risk of Digital addiction?
-3. Can AI chatbot provide the information which will be harmful for the person with the Depression?
+1. Are people who overuse Social media and AI chatbots have a higher risk of depression, anxiety and other conditions?
+2. What factors impact the most?
+3. Can AI chatbot provide the information which will be harmful for the person who use it?
 4. What is possible forecast for the Mental health with the increasing of popularity different AI tools?

@@ -9,17 +9,15 @@
 |---------------------|-----------|------------------------------------------|
 | Tuesday 01.23.2024  | Zoom call | Questions for the Milestone 1 discussion |
 | Thursday 01.25.2024 | Zoom call | Meeting with Evan                        |
-| Tuesday 01.30.2024  | Zoom call | Weekly meeting                           |
-| Thursday 02.01.2024 | Zoom call | Weekly meeting                           |
-| Tuesday 02.06.2024  | Google Meet call | Weekly meeting                    |
-| Tuesday 02.08.2024  | Zoom call | Weekly meeting                           |
+| Tuesday 01.30.2024  | Zoom call |                                          |
+| Thursday 02.01.2024 | Zoom call |                                          |
 
 ## Communication Channels
 
 How often will we get in touch on each channel, and what we will discuss there:
 - **Issues**: When the task is needed to be done
-- **Pull Requests**: When the task is ready for review
-- **Slack**: Available any time
+- **Pull Requests**: When the task is done
+- **Slack/Discord**: Available any time
 - **Video Calls**: Every Tuesday and Thursday 1:00 pm - 2:00 pm EST
 ---
 
@@ -30,21 +28,16 @@ How often will we get in touch on each channel, and what we will discuss there:
 | Day                  | Monday               | Tuesday              | Wednesday            | Thursday             | Friday               | Saturday | Sunday  |
 |----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------|---------|
 | Oleksii Bezruchenkov | 13 - 20              | 13 - 20              | 13 - 20              | 13 - 20              | 13 - 20              | 13 - 20  | 13 - 20 |
-| Maab Taha            | 10 - 13              | 13 - 14              | 10 - 13              | 13 - 14              |  N/A                 |Afternoon |Afternoon|
+| Maab Taha            |                      |                      |                      |                      |                      |          |         |
 | Yuliia Sych          | 13 - 15<br/> 20 - 22 | 13 - 15<br/> 20 - 22 | 13 - 15<br/> 20 - 22 | 13 - 15<br/> 20 - 22 | 13 - 15<br/> 20 - 22 | 20 - 22  |         |
 | Adla Abou Steiti     |                      |                      |                      |                      |                      |          |         |
-| Denys Savytskyi      | 05 - 13              | 13 - 15              |                      | 05 - 15              | 05 - 13              | 03 - 05  |         |
-| wagar Adil           | 09 - 13              | 09 - 13              |                      | 09 - 13              | 12 - 13              |          |         |
-
-
+ 
 ### How many hours everyone has per day:
 
 - Oleksii Bezruchenkov: _3h_;
-- Maab Taha: _1h_;
+- Maab Taha: _3h_;
 - Yuliia Sych: _3h_;
 - Adla Abou Steiti: _3h_;
-- Denys Savytskyi: _4h_;
-- Wagar Adil: _2h_;
 
 
 ## Asking for Help

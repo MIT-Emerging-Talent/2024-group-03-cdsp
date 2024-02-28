@@ -1,0 +1,18 @@
+Index: milestones/1.problem_identification/problem_identification.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!--A problem-statement based on your personal experiences-->\n## Problem Statement: \nAI is the latest trend, we see people spending more time chatting with AI than with friends, family, or real people.\n\n<!--A summary of your group’s understanding of the problem domain (systems thinking, design thinking).-->\n## Summary of our understanding of domain\n*Domain:* Mental health\n\n<!--* An actionable research question informed by the realities of your problem domain and your constraints.-->\n## Research Question\nHow does the increasing use of AI chatbots affect mental health and social skills?
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/milestones/1.problem_identification/problem_identification.md b/milestones/1.problem_identification/problem_identification.md
+--- a/milestones/1.problem_identification/problem_identification.md	
++++ b/milestones/1.problem_identification/problem_identification.md	
+@@ -8,4 +8,4 @@
+ 
+ <!--* An actionable research question informed by the realities of your problem domain and your constraints.-->
+ ## Research Question
+-How does the increasing use of AI chatbots affect mental health and social skills?
+\ No newline at end of file
++gHow does the increasing use of AI chatbots affect mental health and social skills?
+\ No newline at end of file
