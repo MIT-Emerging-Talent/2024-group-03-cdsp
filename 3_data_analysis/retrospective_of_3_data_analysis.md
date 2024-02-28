@@ -10,6 +10,7 @@ as what can be seen from plots and made a README.md with description of the work
 ## In Process
 1- Doing an EDA for the Wellfare effect of social media dataset.                                                                                              
 2- Working on the 50 Indian student dataset about the mental health literacy using ChatGPT.
+3- Running a ChatGPT simulation, where questions from people with different level of disorders are asked to ChatGPT, and responses are compared to the provided responses of mental counselor 
 
 ## Challenges Faced
 Finding the data necessary for our work was a bit difficult, since we couldn't find datasets related to our research questions.
