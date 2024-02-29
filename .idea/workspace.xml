@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c8f7061-9dc9-4697-907d-fc923c12ce40" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/2_data_collection/Social_Media_impact_on_Mental_Health.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_problem_identification/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_problem_identification/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_problem_identification/problem_identification.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_analysis/global_trends/.ipynb_checkpoints/notebook_1_Global Trends-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_analysis/global_trends/.ipynb_checkpoints/notebook_draft1-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_analysis/global_trends/.ipynb_checkpoints/yuliia_global_trends-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_analysis/global_trends/yuliia_global_trends.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
