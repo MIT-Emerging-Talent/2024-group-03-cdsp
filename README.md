@@ -30,6 +30,12 @@ for the[research questions](https://github.com/MIT-Emerging-Talent/2024-group-03
 3. Can AI chatbot provide the information which will be harmful for the person with the Depression?
 4. What is possible forecast for the Mental health with the increasing of popularity different AI tools?
 
+## Constraints 
+1. Dataset availability (Lack of Data: There simply  not be enough data available on the topic of interest to perform meaningful statistical analysis due to lack of studies or digital footprint in the area.
+,Unreliable Data: Even if data is available, it may not be reliable. This could be due to biases in how the data was collected, errors in data entry, or inconsistencies in how data points are defined across different data sets)
+2. Data Privacy: As research involves human subjects and possibly sensitive personal data, adhering to privacy laws like GDPR and HIPAA is crucial. Getting consent, anonymizing data, and ensuring security can be challenging.
+3. Quality of Data: The data available might suffer from bias, inconsistencies, missing values, or it may not be granular enough for your specific research question
+
 ## Methodology
 
 Please follow the link to read full description for 
@@ -45,8 +51,17 @@ countries.
 global trends for the level of depression since 2000 when Internet tarted to gain the popularity
 and no social media existed, then how it changed in 2010-2015 with growing of popularity of Social
 media, and then the most fresh data. We will explore the connections between development of social
-media and AI and diagnosed depression. 
-4. Iterate: We are going to continuously refine our solution based on the feedback, insights, and
+media and AI and diagnosed depression.
+4. Iterate: We4are going to continuously refine our solution based on the feedback, insights, and
 new discoveries.
+
+## Data Collection and Analysis
+[Data collection](2_data_collection)
+
+[Data analysis](3_data_analysis)
+
+
+## Results and evaluation
+[Final presentation](5_final_presentation)
    
 
