@@ -12,7 +12,7 @@ affect individuals' perceptions of their own mental well-being. Identifying pote
 risks allows for the development of safeguards and guidelines to minimize harm.
 
 ## Problem statement
-Please follow the link to read full [problem statement](https://github.com/MIT-Emerging-Talent/2024-group-03-cdsp/blob/main/milestones/1.problem_identification/problem_identification.md).
+Please follow the link to read full [problem statement](1_problem_identification/problem_identification.md).
 
 AI is the latest trend, we notice some people prefer chatting with AI instead of having
 conversation with friends, family members, or real people.
@@ -23,7 +23,7 @@ for certain individuals.
 
 ## Research questions
 Please follow the link to read full description 
-for the[research questions](https://github.com/MIT-Emerging-Talent/2024-group-03-cdsp/blob/main/milestones/1.problem_identification/research_question.md)
+for the[research questions](1_problem_identification/research_question.md)
 
 1. Are people who use Social media and AI chatbots a lot have a higher risk of depression development?
 2. Does people with diagnosed Clinical Depression have a higher risk of Digital addiction?
