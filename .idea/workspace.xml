@@ -4,25 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c8f7061-9dc9-4697-907d-fc923c12ce40" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/cdsp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_13_24,_9_52 AM_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_13_24,_9_52 AM_[Changes]1/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_13_24__9_52AM__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_6_24__11_45AM__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_analysis/global_trends/.ipynb_checkpoints/notebook_1_Global Trends-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_analysis/global_trends/.ipynb_checkpoints/notebook_draft1-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_analysis/global_trends/.ipynb_checkpoints/yuliia_global_trends-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_analysis/global_trends/yuliia_global_trends.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.collaboration/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/.collaboration/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.collaboration/communication.md" beforeDir="false" afterPath="$PROJECT_DIR$/.collaboration/communication.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_problem_identification/research_question.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_problem_identification/research_question.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_problem_identification/retrospective_of_1_problem_identification.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_problem_identification/retrospective_of_1_problem_identification.md" afterDir="false" />
+    <list default="true" id="4c8f7061-9dc9-4697-907d-fc923c12ce40" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_problem_identification/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_problem_identification/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_problem_identification/problem_identification.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_analysis/global_trends/.ipynb_checkpoints/notebook_1_Global Trends-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_analysis/global_trends/.ipynb_checkpoints/notebook_draft1-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_analysis/global_trends/.ipynb_checkpoints/yuliia_global_trends-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_analysis/global_trends/yuliia_global_trends.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,20 +56,21 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2bbf8nBd1OwZEP9DE1EXkHdVII4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Data Sets.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "yuliia/documents",
-    "last_opened_file_path": "/Users/yuliia_sych/PycharmProjects/cdsp",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Data Sets.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;yuliia/documents&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/yuliia_sych/PycharmProjects/cdsp&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -98,5 +88,9 @@
       <updated>1706488542250</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
