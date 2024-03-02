@@ -115,7 +115,7 @@ Self-estimation.
 
 ## Correlation and Predictive analysis
  For all conditions - Procrastination, Anxiety, Depression,
- Self-estimation - analysis showed that Gender is not significally 
+ Self-estimation disorder - analysis showed that Gender is not significantly 
  important factor while time spent online increase the level 
  of symptoms. Built model predict that increasing Time online
  for 
@@ -124,6 +124,14 @@ Self-estimation.
  - 0.6 hour daily for Depression
  - 0.2 hour per day for Self-estimation 
 add 1 point to level of symptoms by this particular survey.
+
+| Condition       | Coefficient for 'Hours Online' | R-squared | MAE   | MSE     | RMSE    | Pearson r | p-value |
+|-----------------|--------------------------------|-----------|-------|---------|---------|-----------|---------|
+| Procrastination | 1.1                            | 0.187     | 2.812 | 12.467  | 3.530   | 0.4527    | 0.00995 |
+| Anxiety         | 0.55                           | 0.227     | 1.611 | 3.561   | 1.887   | 0.4375    | 0.00995 |
+| Depression      | 0.64                           | 0.114     | 2.435 | 8.857   | 2.976   | 0.341     | 0.00995 |
+| Self-estimation | 0.18                           | 0.073     | 2.027 | 6.623   | 2.573   | 0.191     | 0.00995 |
+
 At the same time, metrics for evaluation the performance of a
 regression model show that we may have a big difference between
 the predicted values and the actual values in the test set. 
@@ -134,6 +142,15 @@ This survey shows that time people spent in social media may increase the level 
 Procrastination, Anxiety, Depression, Self-estimation. At the same time 
 gender don't have any impact and all genders may risk of harmful effect of
 Social Media if overuse them. 
+The correlation coefficient is positive, suggesting a positive linear relationship
+between the variables, but it's relatively weak. The p-value, which is 0.00995, 
+represents the probability of observing a correlation coefficient as extreme as 
+the one obtained (or more extreme) under the null hypothesis that there is no
+correlation between the variables. A smaller p-value suggests stronger evidence 
+against the null hypothesis. Here, the p-value is less than the conventional 
+significance level of 0.05 (or 5%), indicating that the correlation observed is
+statistically significant. Therefore, we reject the null hypothesis and conclude
+that there is a statistically significant correlation between the variables.
 
 ## Utilizing the dataset
 You find the csv file with the data in this folder. To effectively use this dataset, follow 
