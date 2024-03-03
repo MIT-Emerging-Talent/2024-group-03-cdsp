@@ -1,0 +1,40 @@
+Index: 1_problem_identification/problem_identification.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!--A problem-statement based on your personal experiences-->\n## Problem Statement: \nMental health care is crucial for overall well-being, as it encompasses emotional, \npsychological, and social aspects of a person's life. Just as physical health requires \nattention and treatment, so too does mental health. Neglecting mental health can lead \nto various issues such as anxiety, depression, and stress, impacting one's quality of \nlife and ability to function effectively.\n\nOne significant aspect of mental health in the digital age is the rise of internet \naddiction. With the increasing prevalence of smartphones, social media platforms, and \ndevelopment of AI tools, individuals are becoming more susceptible to excessive internet\nusage, leading to addiction. Digital addiction can disrupt sleep patterns, decrease \nproductivity, strain relationships, and exacerbate existing mental health conditions.\n\n## Key issues:\n\nAI is the latest trend, we notice some people prefer chatting with AI instead of having\nconversation with friends, family members, or real people.\nThe increasing preference for chatting with AI rather than real people presents a unique\npsychological landscape with potential implications for mental health. While conversing\nwith AI can offer convenience, anonymity, and immediate responses, it also poses risks\nfor certain individuals.\n\nOne primary concern is the potential for social isolation and loneliness. Human\nconnections are essential for mental well-being, providing emotional support, validation,\nand a sense of belonging. Choosing AI companionship over real human interaction may lead\nto feelings of disconnection and alienation, ultimately exacerbating loneliness and\nincreasing the risk of mental health disorders such as depression and anxiety.\n\n## Impact\nWhile AI tools may offer benefits, they can also pose risks to mental health. \nOur team decided to investigate how reliance on AI for emotional support or guidance may\naffect individuals' perceptions of their own mental well-being. Identifying potential\nrisks allows for the development of safeguards and guidelines to minimize harm.
+===================================================================
+diff --git a/1_problem_identification/problem_identification.md b/1_problem_identification/problem_identification.md
+--- a/1_problem_identification/problem_identification.md	
++++ b/1_problem_identification/problem_identification.md	
+@@ -1,4 +1,4 @@
+-<!--A problem-statement based on your personal experiences-->
++ <!--A problem-statement based on your personal experiences-->
+ ## Problem Statement: 
+ Mental health care is crucial for overall well-being, as it encompasses emotional, 
+ psychological, and social aspects of a person's life. Just as physical health requires 
+@@ -14,7 +14,12 @@
+ 
+ ## Key issues:
+ 
+-AI is the latest trend, we notice some people prefer chatting with AI instead of having
++Human beings are social creatures that require the companionship of others to make progress 
++in life. Thus, being socially connected with other people can relieve stress, anxiety, and 
++sadness, but lack of social connection can pose serious risks to mental health. Social media 
++has recently become part of people's daily activities; many of them spend hours each day on
++Messenger, Instagram, Facebook, and other popular social media. 
++AI is the latest trend, we noticed some people prefer chatting with AI instead of having
+ conversation with friends, family members, or real people.
+ The increasing preference for chatting with AI rather than real people presents a unique
+ psychological landscape with potential implications for mental health. While conversing
+@@ -28,7 +33,7 @@
+ increasing the risk of mental health disorders such as depression and anxiety.
+ 
+ ## Impact
+-While AI tools may offer benefits, they can also pose risks to mental health. 
+-Our team decided to investigate how reliance on AI for emotional support or guidance may
+-affect individuals' perceptions of their own mental well-being. Identifying potential
++While AI tools and social media may offer benefits, they can also pose risks to mental health. 
++Our team decided to investigate how uncontrolled overuse AI chatbots and social media platforms 
++may affect individuals' perceptions of their own mental well-being. Identifying potential
+ risks allows for the development of safeguards and guidelines to minimize harm.
+\ No newline at end of file
