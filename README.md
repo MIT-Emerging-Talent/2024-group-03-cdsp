@@ -52,14 +52,39 @@ global trends for the level of depression since 2000 when Internet tarted to gai
 and no social media existed, then how it changed in 2010-2015 with growing of popularity of Social
 media, and then the most fresh data. We will explore the connections between development of social
 media and AI and diagnosed depression.
-4. Iterate: We4are going to continuously refine our solution based on the feedback, insights, and
+4. Iterate: We are going to continuously refine our solution based on the feedback, insights, and
 new discoveries.
 
 ## Data Collection and Analysis
+Currently, open data on the influence of AI on mental health is unavailable. 
+Therefore, we've chosen to investigate the influence of social media on mental 
+health, assuming that these findings may highlight the potential effects of AI.
+ 
 [Data collection](2_data_collection)
 
 [Data analysis](3_data_analysis)
 
+## Communicating results
+**Audience**
+The target audience for our mental health awareness campaign is primarily aged between 
+20 and 40, possessing basic computer literacy and using social media and chatbots regularly. 
+They are tech-savvy individuals with smartphones or computers and internet access, but they 
+face constraints such as busy schedules, limited emotional vocabulary, and potential lack of 
+support from their social circles. 
+Financial limitations might have an impact on their ability to afford therapy, and they may 
+not be fully aware of available mental health resources. 
+
+**Artifact**
+Our strategy involves utilizing social media marketing. These are the series of posts with 
+the comparison between healthy ways of social media or AI tools usage and habits that may 
+lead to harmful effects on mental health. Each post has graphics poster with a story about 
+two persons, and a conclusion, or just a reference to some page with details
+We aim for our audience to realize the importance of real human connections, understand the 
+limitations of chatbots, and feel empowered to seek professional help when needed. We hope 
+they will use chatbots cautiously, be mindful of the risks of excessive use, and prioritize 
+real-life relationships.
+
+[Full information](4_communicating_results)
 
 ## Results and evaluation
 [Final presentation](5_final_presentation)
