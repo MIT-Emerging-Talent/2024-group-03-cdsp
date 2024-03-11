@@ -19,5 +19,5 @@ Some team members where not available, but still the work flow has been good and
 We have two meetings per week, which through we discuss what needs to be done through out the milestone and the team divides the work between them.
 
 ## Conclusions
-At the end of this project. We think it was a great experience and a lot of new tools and communication ways where developed to each of the members
+Thinking through the eyes of a data scientist in this stage caused us to be stuck for a long time. One of the major things that helped us was to put ourselves in the shoes of our audience and to speak as if we were speaking to our families. We had to take it less seriously and have more fun with it.
 
