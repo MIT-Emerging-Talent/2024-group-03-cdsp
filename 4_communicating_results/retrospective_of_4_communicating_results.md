@@ -1,6 +1,6 @@
 
 ## Introduction
-Date: 19 February - 11 March, 2024
+Date: 19 February - 11 March, 2024                                                                                                                            
 This milestone focuses on the Communicating Results phase of the project.
 
 ## Acheivements
