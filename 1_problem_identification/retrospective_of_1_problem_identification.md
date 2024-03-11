@@ -4,7 +4,7 @@ January 22 - 26
 ## Team Members: 
 [Oleksiy Bezruchenkov](https://github.com/abezruchenkov), [Maab Taha](https://github.com/MaabTaha),
 [Yuliia Sych](https://github.com/Yulia-Sych), [Adla Abou Steiti](https://github.com/AdlaAbouSteiti)
-[Denys Savytskyi](https://github.com/tvsirius)
+[Denys Savytskyi](https://github.com/tvsirius), [Wagar Adil](https://github.com/wagoory)
 
 ## What Worked Well:
 
