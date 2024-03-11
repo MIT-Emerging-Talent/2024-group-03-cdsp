@@ -4,18 +4,19 @@ Date: 19 February - 11 March, 2024
 This milestone focuses on the Communicating Results phase of the project.
 
 ## Acheivements
-1- We worked on fixing our repositry's main structure.
-2- We worked on creating our Artifact
-3- We worked on describing and identifing our target audience
-4- We worked on the script for our final presentation
+1- We worked on fixing our repositry's main structure.                                                                                                           
+2- We worked on creating our Artifact                                                                                                                            
+3- We worked on describing and identifing our target audience                                                                                                    
+4- We worked on the script for our final presentation                                                                                                            
 5- We worked on finalizing the ChatGPT-simulation analysis
 
 ## Challenges Faced
-NA 
+Coming up with the artifact was a big challenge that required a lot of brainstorming.                                                                            
+We faced problems in finding a time where enough people in the team was available to meet.
 
 ## Team Dynamics and Collaboration
-Some team members where not available, but still the work flow has been good and the rest of the team is participating perfectly.
-We have two meetings per week, which through we discuss what needs to be done through out the milestone and the team divides the work between them
+Some team members where not available, but still the work flow has been good and the rest of the team is participating perfectly.                                
+We have two meetings per week, which through we discuss what needs to be done through out the milestone and the team divides the work between them.
 
 ## Conclusions
 At the end of this project. We think it was a great experience and a lot of new tools and communication ways where developed to each of the members
