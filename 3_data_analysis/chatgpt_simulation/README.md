@@ -1,4 +1,4 @@
-# Mental Health Support of ChatGPT vs Human Simulation
+# Mental Health Support of ChatGPT vs Human Mental Counselor 
 
 This research aims to explore the effectiveness of using ChatGPT for mental health support compared to human mental counselors. The analysis involves simulating ChatGPT responses to requests from individuals with mental health concerns and comparing them to responses from trained mental health professionals. Additionally, the research delves into identifying topics where ChatGPT excels and areas where it falls short, providing insights into its potential applications and limitations in mental health support.
 

@@ -1,11 +1,11 @@
  # Data Collection
 
  ## General 
- Following the Constraints mentioned in [main readme file](README.md), there was a challenge to collect huge amount of relevant datasets.
- All potential data being collaboratively collected and stored in the [document with collection of found datasets for our project](https://docs.google.com/document/d/1nzOBzuTgNCnghBkFcH8mq7668mJNukuaXoMGSnNw0Zs/edit#heading=h.6j05eaioxy24)
+It was a challenge to collect huge amount of relevant datasets.
+All potential data being collaboratively collected and stored in the [document with collection of found datasets for our project](https://docs.google.com/document/d/1nzOBzuTgNCnghBkFcH8mq7668mJNukuaXoMGSnNw0Zs/edit#heading=h.6j05eaioxy24)
 
 
- ## Most relevant datasets:
+ ## Datasets we choose and work with in this research:
 [Google Trends Data on ChatGPT Risks](Google_Trends_On_ChatGPT_Risks.md)
 
 

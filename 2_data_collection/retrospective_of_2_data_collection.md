@@ -4,15 +4,15 @@ This milestone focuses on the Data Collection phase of the project.
 
 
 ## Achievements
-1- Depending on our problem set we started looking for different data sets that have our same domain. 
+1. Depending on our problem set we started looking for different data sets that have our same domain. 
 
-2- We worked on the data collection of the [Google Trends Data on ChatGPT Risks](Google_Trends_On_ChatGPT_Risks.md)
+2. We worked on the data collection of the [Google Trends Data on ChatGPT Risks](Google_Trends_On_ChatGPT_Risks.md)
 
-3- We worked on the data collection of the [Global_Trends_in_Mental_Health_Dataset_Description](Global_Trends_in_Mental_Health_Dataset_Discription.md)
+3. We worked on the data collection of the [Global_Trends_in_Mental_Health_Dataset_Description](Global_Trends_in_Mental_Health_Dataset_Discription.md)
 
-4- We worked on the data collection of the [ChatGPT simulation on relevant questions](ChatGPT_simulation_data.md)
+4. We worked on the data collection of the [ChatGPT simulation on relevant questions](ChatGPT_simulation_data.md)
 
-5- We worked on the data collection of the [Social media impact on mental health](Social_Media_impact_on_Mental_Health.md)                                                       
+5. We worked on the data collection of the [Social media impact on mental health](Social_Media_impact_on_Mental_Health.md)                                                       
 
 
 ## Challenges Faced

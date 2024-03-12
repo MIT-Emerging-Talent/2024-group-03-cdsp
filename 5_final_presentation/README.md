@@ -11,5 +11,5 @@ Slideshow of our presentation can be viewed as a [PDF document](<Final Presentat
 
  ## Presentation Script 
 
-Script of presentation is in this [PDF document](<Presentaion Script.pdf>)
+Script of presentation is in this [PDF document](<Presentation Script.pdf>)
  
