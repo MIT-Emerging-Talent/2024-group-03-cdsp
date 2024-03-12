@@ -1,6 +1,6 @@
 # MIT Emerging Talent - Group 3
 
-## Investigation of connections between depression development and excessive social media and AI chatbot usage
+# Investigation of connections between depression development and excessive social media and AI chatbot usage
 
 ## Overview
 Mental health care is crucial for overall well-being, as it encompasses emotional, 
@@ -12,7 +12,7 @@ affect individuals' perceptions of their own mental well-being. Identifying pote
 risks allows for the development of safeguards and guidelines to minimize harm.
 
 ## Problem statement
-Please follow the link to read full [problem statement](https://github.com/MIT-Emerging-Talent/2024-group-03-cdsp/blob/main/milestones/1.problem_identification/problem_identification.md).
+Please follow the link to read full [problem statement](1_problem_identification)
 
 AI is the latest trend, we notice some people prefer chatting with AI instead of having
 conversation with friends, family members, or real people.
@@ -23,7 +23,7 @@ for certain individuals.
 
 ## Research questions
 Please follow the link to read full description 
-for the[research questions](https://github.com/MIT-Emerging-Talent/2024-group-03-cdsp/blob/main/milestones/1.problem_identification/research_question.md)
+for the[research questions](1_problem_identification)
 
 1. Are people who use Social media and AI chatbots a lot have a higher risk of depression development?
 2. Does people with diagnosed Clinical Depression have a higher risk of Digital addiction?
@@ -32,22 +32,21 @@ for the[research questions](https://github.com/MIT-Emerging-Talent/2024-group-03
 
 ## Constraints 
 1. Dataset availability (Lack of Data: There simply  not be enough data available on the topic of interest to perform meaningful statistical analysis due to lack of studies or digital footprint in the area.
-,Unreliable Data: Even if data is available, it may not be reliable. This could be due to biases in how the data was collected, errors in data entry, or inconsistencies in how data points are defined across different data sets)
+Unreliable Data: Even if data is available, it may not be reliable. This could be due to biases in how the data was collected, errors in data entry, or inconsistencies in how data points are defined across different data sets)
 2. Data Privacy: As research involves human subjects and possibly sensitive personal data, adhering to privacy laws like GDPR and HIPAA is crucial. Getting consent, anonymizing data, and ensuring security can be challenging.
 3. Quality of Data: The data available might suffer from bias, inconsistencies, missing values, or it may not be granular enough for your specific research question
 
 ## Methodology
 
-Please follow the link to read full description for 
-our approach to the[system thinking and design thinking](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_1/system_design_thinking.md)
+Please follow the link to read full description for our approach to the[system thinking and design thinking](1_problem_identification/system_design_thinking.md)
 
 1. Empathize: From personal and close people experience we understand that Internet, social media
-and AI tools and give us not only benefits, but also some risks and theis understanding helps
+and AI tools and give us not only benefits, but also some risks and their understanding helps
 us to decrease the harmful impact. 
 2. Define the issue: We will explore the connections between growing of popularity of
 social media (10-5 years ago), AI chatbots (last two years) and level of depression in different
 countries.
-3. Ideas how to explore: While we don't have open data connected with AI usage, we want to analise
+3. Ideas how to explore: While we don't have open data connected with AI usage, we want to analyze
 global trends for the level of depression since 2000 when Internet tarted to gain the popularity
 and no social media existed, then how it changed in 2010-2015 with growing of popularity of Social
 media, and then the most fresh data. We will explore the connections between development of social
@@ -86,7 +85,11 @@ real-life relationships.
 
 [Full information](4_communicating_results)
 
-## Results and evaluation
+## Results and overview document
+We present our story and our message to our audience as an [Instagram Account](https://www.instagram.com/chatgptismybestfriend3?igsh=aW40OXFqZzlpeHYx) with a link to our [Research Overview document](http://mit-emerging-talent.github.io/2024-group-03-cdsp)
+
+
+## Presentation of our project  
 [Final presentation](5_final_presentation)
    
 

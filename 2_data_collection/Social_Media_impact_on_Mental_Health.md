@@ -33,5 +33,5 @@ individual spends on social media and the impact it has on their mental health.
 The dataset contains 21 column and 474 rows with the answers of respondents for the survey. 
 
 ## Analysis
-More detailed information and analysis in `data_analysis/social_media_impact/README.md`
+More detailed information in the [analysis](../3_data_analysis/social_media_impact) 
 

@@ -1,7 +1,7 @@
 
 With the development and growing of popularity of different AI tolls our team decided to explore
 possible impact on the mental health. We researched different conditions and found that people
-with high level of internet usage can have a higher rist of depression, so we decided to deep into this
+with high level of internet usage can have a higher risk of depression, so we decided to deep into this
 condition and research possible risks of depression development. 
 
 ## Research questions

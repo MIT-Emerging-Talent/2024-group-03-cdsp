@@ -1,5 +1,6 @@
-<!--A problem-statement based on your personal experiences-->
-## Problem Statement: 
+
+# Problem Identification
+
 Mental health care is crucial for overall well-being, as it encompasses emotional, 
 psychological, and social aspects of a person's life. Just as physical health requires 
 attention and treatment, so too does mental health. Neglecting mental health can lead 
@@ -28,11 +29,17 @@ to feelings of disconnection and alienation, ultimately exacerbating loneliness 
 increasing the risk of mental health disorders such as depression and anxiety.
 
 ## Impact
+
 While AI tools may offer benefits, they can also pose risks to mental health. 
 Our team decided to investigate how reliance on AI for emotional support or guidance may
 affect individuals' perceptions of their own mental well-being. Identifying potential
 risks allows for the development of safeguards and guidelines to minimize harm.
 
 ## Research questions
-Please follow the link to read about [research questions](https://github.com/MIT-Emerging-Talent/2024-group-03-cdsp/blob/main/milestones/1.problem_identification/research_question.md)
+
+Please follow the link to read about [research questions](research_question.md)
+
+## System thinking and design thinking
+
+Please follow the link to read full description for our approach to the [system thinking and design thinking](system_design_thinking.md)
 
