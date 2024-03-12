@@ -95,14 +95,14 @@ Analyze time that respondent spend online every day was found that
 - 7% spend online less than hour
 
 ## Analise of connections between time spent online and level of severity for each condition
-![](/Users/yuliia_sych/Documents/Social_media_impact/plots/procrast_time.png)
-![](/Users/yuliia_sych/Documents/Social_media_impact/plots/anx_time.png)
-![](/Users/yuliia_sych/Documents/Social_media_impact/plots/depr_time.png)
-![](/Users/yuliia_sych/Documents/Social_media_impact/plots/se_time.png)
+![](plots/procrast_time.png)
+![](plots/anx_time.png)
+![](plots/depr_time.png)
+![](plots/se_time.png)
 All plots show that symptoms for each condition increase with increasing time spent online. 
 
 ## Analise of distribution different conditions by gender 
-![](/Users/yuliia_sych/Documents/Social_media_impact/plots/conditions_gender.png)
+![](plots/conditions_gender.png)
 Analyze shows some outliers in 'Transgender' and 'Prefer not to say (gender)'
 groups, so we decided to check how many people in each of this gender group. 
 We found that each group consist only one respondent, so this outliers statistically not significant. 
@@ -111,7 +111,7 @@ We found that each group consist only one respondent, so this outliers statistic
 General plot for all conditions shows that respondents faced the most
 with the Procrastination, then Depression, then Anxiety and have less impact on 
 Self-estimation. 
-![](/Users/yuliia_sych/Documents/Social_media_impact/plots/all_conditions.png)
+![](plots/all_conditions.png)
 
 ## Correlation and Predictive analysis
  For all conditions - Procrastination, Anxiety, Depression,

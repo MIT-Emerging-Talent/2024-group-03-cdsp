@@ -1,49 +1,36 @@
+## Date: 
+January 22 - 26
 
- ## TO WRITE or add 
+## Team Members: 
+[Oleksiy Bezruchenkov](https://github.com/abezruchenkov), [Maab Taha](https://github.com/MaabTaha),
+[Yuliia Sych](https://github.com/Yulia-Sych), [Adla Abou Steiti](https://github.com/AdlaAbouSteiti)
+[Denys Savytskyi](https://github.com/tvsirius), [Wagar Adil](https://github.com/wagoory)
+[Pavlo Iakymenko](https://github.com/pavlo-iakymenko), [Polina Samsonova](https://github.com/polly-wolly) 
 
+## What Worked Well:
 
+- The team conducted extensive research to understand the domain and identify potential problem areas.
 
- # Milestone 1 - Retrospective
+- Collaboration between team members from diverse backgrounds.
 
-## Maab
-### Stop Doing
-- Leaving tasks to the last minute.
-- Not communicating outside of meeting times.
-### Continue Doing
-- Meet twice a week with team
-- Schedule group check-ins
-### Start Doing
-Organizing the work and setting earlier deadlines for each sub-task per milestone
-### Lessons Learned
-- Regular communication outside of meetings is needed to make sure everyone is on the same page and is receiving necessary support if needed.
+- We maintained detailed documentation throughout the problem identification process.
 
+## Challenges Faced:
 
-## Yuliia
-### Stop Doing
-- 
-### Continue Doing
-- 
-### Start Doing
-
-### Lessons Learned
+- Understanding of possible limited data availability: data connected with harmful impact of AI chatbots may not be in a public access because these studies are fresh and may be in progress now. 
+- Team members availability due to different time zones.
 
 
-## Adla
-### Stop Doing
-- 
-### Continue Doing
-- 
-### Start Doing
+## Key Learnings:
+Iterative approach allowed us continuously refine and explore of potential problem formulations, and helped us to uncover hidden nuances.
 
-### Lessons Learned
+## Action Items for Improvement:
+
+- Stop postpone decisions on the last minute.
 
 
-## Oleksii
-### Stop Doing
-- 
-### Continue Doing
-- 
-### Start Doing
 
-### Lessons Learned
+
+
+
 

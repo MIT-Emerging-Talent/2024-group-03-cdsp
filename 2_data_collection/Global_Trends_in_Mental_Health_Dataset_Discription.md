@@ -7,8 +7,8 @@ Surveys and screening questionnaires can be used to collet the data being refere
 but they can be used more easily and widely because the data does not need to be collected by a healthcare professional.
 
 ## Contents
-The dataset consists of a CVS file, where the rows represents the different countries varing through out the years.
-The columns contain 5 mental health disordes (Schizophrenia disorder, Depressive disorder, Anxiety disorder, Bipolar disorder, and Eating disorder)
+The dataset consists of a CVS file, where the rows represents the different countries varying through out the years.
+The columns contain 5 mental health disorders (Schizophrenia disorder, Depressive disorder, Anxiety disorder, Bipolar disorder, and Eating disorder)
 
 ## Strengths of Survey Data
 As mentioned in the dataset..
@@ -23,3 +23,7 @@ As mentioned in the dataset, people may not share their symptoms in surveys, as 
 Along with this, people’s comfort in sharing mental health symptoms may vary between countries and over time.
 Another limitation is that people may not remember their symptoms, especially when they are asked to recall symptoms in their lifetime so far.
 This can be challenging for older people whose symptoms may have occurred decades ago.
+
+## Analysis
+
+More information in the [analysis](../3_data_analysis/global_trends)

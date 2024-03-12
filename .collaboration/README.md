@@ -1,4 +1,4 @@
-# Algorithms and Data Structures: Group Study
+
 ## Group norms
 Our group fosters a culture characterized by respect, open-mindedness, clear communication, and active participation as we work towards common objectives.
 

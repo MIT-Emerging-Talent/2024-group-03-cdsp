@@ -1,14 +1,17 @@
+# Data Analysis 
+
+Currently, open data on the influence of AI on mental health is unavailable. Therefore, we've chosen to investigate the influence of social media on mental health, assuming that these findings may highlight the potential effects of AI.
  
- Currently, open data on the influence of AI on mental health is unavailable. 
- Therefore, we've chosen to investigate the influence of social media on mental 
- health, assuming that these findings may highlight the potential effects of AI.
- 
-We explore several data sets. To read full information about data, please follow
-the links:
-[Global trends in mental health](https://github.com/MIT-Emerging-Talent/2024-group-03-cdsp/blob/main/2_data_collection/Global_Trends_in_Mental_Health_Dataset_Discription.md)
-[Social media impact on mental health](https://github.com/MIT-Emerging-Talent/2024-group-03-cdsp/blob/main/2_data_collection/Social_Media_impact_on_Mental_Health.md)
-[Google trends](https://github.com/MIT-Emerging-Talent/2024-group-03-cdsp/blob/main/2_data_collection/Google_Trends_On_ChatGPT_Risks.md)
-[ChatGPT simulation](https://github.com/MIT-Emerging-Talent/2024-group-03-cdsp/tree/main/3_data_analysis/chatgpt_simulation)
+We explore several data sets. To read full information about datasets being used, please follow the links:
+
+[Global trends in mental health](../2_data_collection/Global_Trends_in_Mental_Health_Dataset_Discription.md)
+
+[Social media impact on mental health](../2_data_collection/Social_Media_impact_on_Mental_Health.md)
+
+[Google trends](../2_data_collection/Google_Trends_On_ChatGPT_Risks.md)
+
+[ChatGPT simulation](../2_data_collection/ChatGPT_simulation_data.md)
+
 
 ## Key findings
 
@@ -19,7 +22,7 @@ patterns can be seen. The rise of social media slightly decreases depression in
 many countries, as well as increases anxiety and some other disorders. These 
 patterns confirm the importance of our research.
 To read full information about data analysis for Global trends dataset, please follow
-the [link](https://github.com/MIT-Emerging-Talent/2024-group-03-cdsp/blob/main/3_data_analysis/global_trends/README.md)
+the [link](global_trends)
 
 ## Social media impact on mental health
 We analyzed the dataset “Social Media and Mental Health”. The correlation 
@@ -28,7 +31,7 @@ positive, but it's relatively weak. Symptoms for each condition increase with
 increasing time spent on social media. Controlling your time online and dedicating 
 time for real life should minimize these negative impacts.
 To read full information about data analysis for Global trends dataset, please follow
-the [link](https://github.com/MIT-Emerging-Talent/2024-group-03-cdsp/blob/main/3_data_analysis/social_media_impact/README.md)
+the [link](social_media_impact)
 
 ## Google trends
 The analysis of Google Trends data reveals a notable shift in public concern from 
@@ -41,7 +44,7 @@ the necessity for further research and dialogue on how AI influences mental heal
 privacy, and societal norms, pointing towards an evolving landscape of societal focus 
 and concern in the digital age.
 To read full information about data analysis for Global trends dataset, please follow
-the [link](https://github.com/MIT-Emerging-Talent/2024-group-03-cdsp/blob/main/3_data_analysis/google_trends/README.md)
+the [link](google_trends)
 
 ## ChatGPT simulation
 Based on a psychology dataset we run a trial of asking ChatGPR requests from people 
@@ -55,7 +58,7 @@ they show that it is important to use ChatGPT for mental health support cautious
 complete reliance on it may not always provide good results, and in many cases human 
 support should be a preferred option.
 To read full information about data analysis for Global trends dataset, please follow
-the [link](https://github.com/MIT-Emerging-Talent/2024-group-03-cdsp/blob/main/3_data_analysis/chatgpt_simulation/README.md)
+the [link](chatgpt_simulation)
 
 
 
