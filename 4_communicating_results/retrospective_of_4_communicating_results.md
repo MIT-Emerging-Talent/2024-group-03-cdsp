@@ -3,10 +3,10 @@
 Date: 19 February - 11 March, 2024                                                                                                                            
 This milestone focuses on the Communicating Results phase of the project.
 
-## Acheivements
-1- We worked on fixing our repositry's main structure.                                                                                                           
+## Achievements
+1- We worked on fixing our repository's main structure.                                                                                                           
 2- We worked on creating our Artifact                                                                                                                            
-3- We worked on describing and identifing our target audience                                                                                                    
+3- We worked on describing and identifying our target audience                                                                                                    
 4- We worked on the script for our final presentation                                                                                                            
 5- We worked on finalizing the ChatGPT-simulation analysis
 

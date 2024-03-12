@@ -2,13 +2,13 @@
 Date: 5-16 February, 2024                                                                                                                                     
 This milestone focuses on the data analysis phase of the project.
 
-## Acheivements
+## Achievements
 1- Explored the Global Trends in Mental Health dataset, adding the data of social media users percentage. Worked on finalizing notebook, wrote conclusions,
 as what can be seen from plots and made a README.md with description of the work done.                                                                        
 2- Worked on the analysis on ChatGPT's rising public interest and its comparison with social media anxiety trends, indicating a shift in societal concerns towards AI.
 
 ## In Process
-1- Doing an EDA for the Wellfare effect of social media dataset.                                                                                              
+1- Doing an EDA for the Welfare effect of social media dataset.                                                                                              
 2- Working on the 50 Indian student dataset about the mental health literacy using ChatGPT.
 3- Running a ChatGPT simulation, where questions from people with different level of disorders are asked to ChatGPT, and responses are compared to the provided responses of mental counselor 
 

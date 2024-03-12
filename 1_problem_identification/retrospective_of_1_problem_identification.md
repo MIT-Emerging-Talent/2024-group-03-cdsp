@@ -5,6 +5,7 @@ January 22 - 26
 [Oleksiy Bezruchenkov](https://github.com/abezruchenkov), [Maab Taha](https://github.com/MaabTaha),
 [Yuliia Sych](https://github.com/Yulia-Sych), [Adla Abou Steiti](https://github.com/AdlaAbouSteiti)
 [Denys Savytskyi](https://github.com/tvsirius), [Wagar Adil](https://github.com/wagoory)
+[Pavlo Iakymenko](https://github.com/pavlo-iakymenko), [Polina Samsonova](https://github.com/polly-wolly) 
 
 ## What Worked Well:
 
@@ -16,14 +17,12 @@ January 22 - 26
 
 ## Challenges Faced:
 
-- Understanding of possible limited data availability: data connected with harmful impact of AI chatbots
-may not be in a public access because these studies are fresh and may be in progress now. 
+- Understanding of possible limited data availability: data connected with harmful impact of AI chatbots may not be in a public access because these studies are fresh and may be in progress now. 
 - Team members availability due to different time zones.
 
 
 ## Key Learnings:
-Iterative approach allowed us continuously refine and explore of potential problem formulations, 
-and helped us to uncover hidden nuances.
+Iterative approach allowed us continuously refine and explore of potential problem formulations, and helped us to uncover hidden nuances.
 
 ## Action Items for Improvement:
 

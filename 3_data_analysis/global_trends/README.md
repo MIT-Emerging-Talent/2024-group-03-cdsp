@@ -6,12 +6,12 @@ In this research data analysis on the intersection of mental health trends and s
 The primary aim of this analysis is to investigate the potential impact of social media and artificial intelligence (AI) on mental health. The research explores patterns and correlations within the dataset to discern any insights into how these factors might influence mental well-being.
 
 ## Data Sources
-- [Global Trends in Mental Health Dataset](https://www.kaggle.com/datasets/imtkaggleteam/mental-health?select=1-+mental-illnesses-prevalence.csv): This dataset provides insights into the prevalence of mental illnesses across different countries and regions from 1990 to 2019. Dataset is in the ```kaggle2019``` folder.
-- [Mental Health Depression Disorder Data](https://data.world/vizzup/mental-health-depression-disorder-data/workspace/file?filename=Mental+health+Depression+disorder+Data.xlsx): A supplementary dataset offering additional insights into mental health disorders, covering the period from 1990 to 2017. Dataset is in the ```dataworld2017``` folder.
-- Social Media Usage Data: Data on monthly active users for platforms like [Facebook](https://www.businessofapps.com/data/facebook-statistics/), [Twitter](https://www.businessofapps.com/data/twitter-statistics/), and [Instagram](https://www.businessofapps.com/data/instagram-statistics/) have been collected to understand the relationship between social media engagement and mental health trends. Combined dataset is in the ```social_media_usage_by_years``` folder
+- [Global Trends in Mental Health Dataset](https://www.kaggle.com/datasets/imtkaggleteam/mental-health?select=1-+mental-illnesses-prevalence.csv): This dataset provides insights into the prevalence of mental illnesses across different countries and regions from 1990 to 2019. Dataset is in the [kaggle2019](kaggle2019) folder.
+- [Mental Health Depression Disorder Data](https://data.world/vizzup/mental-health-depression-disorder-data/workspace/file?filename=Mental+health+Depression+disorder+Data.xlsx): A supplementary dataset offering additional insights into mental health disorders, covering the period from 1990 to 2017. Dataset is in the [dataworld2017](dataworld2017) folder.
+- Social Media Usage Data: Data on monthly active users for platforms like [Facebook](https://www.businessofapps.com/data/facebook-statistics/), [Twitter](https://www.businessofapps.com/data/twitter-statistics/), and [Instagram](https://www.businessofapps.com/data/instagram-statistics/) have been collected to understand the relationship between social media engagement and mental health trends. Combined dataset is in the [social_media_usage_by_years](social_media_usage_by_years) folder
 
 ## Jupyter notebook
-All work with datasets and plot are made in ```Notebook_Global_Trends_Dataset_analysis.ipynb``` in this folder. 
+All work with datasets and plot are made in [Notebook_Global_Trends_Dataset_analysis.ipynb](Notebook_Global_Trends_Dataset_analysis.ipynb) in this folder. 
 
 Here is a brief description of the work done, resulting plots and conclusions.
 
